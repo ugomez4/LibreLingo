@@ -34,7 +34,7 @@
 
 ### Izan (to be)
 *   Sentences in these beginning lessons will use the verb "Izan" ("to be"), which can be thought of as meaning "equal to".
-*   So in the sentences "He is Mixel." and "The house is big." the nouns "He, Mixel and house" and the adjective "big" are all in the NOR/Absolutive case case in Basque, since "he" isn't doing anything to/with/for "Mixel" ("He = Mixel") and big is just describing the house ("house = big").
+*   So in the sentences "He is Mixel." and "The house is big." the nouns "He, Mixel and house" and the adjective "big" are all in the NOR/Absolutive case in Basque, since "he" isn't doing anything to/with/for "Mixel" ("He = Mixel") and big is just describing the house ("house = big").
 *   Izan is used for facts or qualities that are fairly permanent, fixed attributes of the subject.
 *   Examples:
     *   Mutila naiz. I am a boy.
@@ -63,6 +63,6 @@ __Bat(one):__ The word "bat" (one) is used as an adjective, so the accompanying 
 *   zu zara: you are
 *   hura da: he/she/it is
 *   bat: one
-*   kaizo: hello
+*   kaixo: hello
 
 [ Go Back to Home Page!](..)
