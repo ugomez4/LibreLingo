@@ -7,7 +7,7 @@
     *   Ending: -ak
     *   Example: EtxeAK (houses)
 
-*   The plural definite form of Basque nouns is used give Basque nouns the equivalent of an English plural ending (s).
+*   The plural definite form of Basque nouns is used to give Basque nouns the equivalent of an English plural ending (s).
 *   Izan sentences use the NOR case, so you would add "-ak" (mutil → mutilak) to plural nouns.
 *   Note: If the word ends in an "a" in the Indefinite form, another is not added in the Plural Definite form.
 *   Ex: Neska(girl, a girl, the girl): Neskak(girls)
@@ -17,7 +17,7 @@ Also, if the indefinite form of the word ends in an "r", for the Plural forms th
 
 ## Plural Pronouns and IZAN (to be)
 ### Plural Pronouns
-*   Gura (We)
+*   Gu (We)
 *   Zuek (You(plural))
 *   Haiek (They)
 
@@ -39,6 +39,6 @@ Also, if the indefinite form of the word ends in an "r", for the Plural forms th
 *   mutilak: boys
 *   neskak: girls
 *   ikasleak: students
-*   irakalseak: teachers
+*   irakasleak: teachers
 
 [ Go Back to Home Page!](..)
