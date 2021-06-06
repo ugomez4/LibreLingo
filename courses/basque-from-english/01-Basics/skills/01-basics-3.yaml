@@ -109,7 +109,7 @@ Phrases:
   - Phrase: Kaixo. Gu Miren eta Aintza gara.
     Alternative versions:
      - Kaixo. Miren eta Aintza gara.
-    Translation: Hello.  We are Miren and Aintza.
+    Translation: Hello. We are Miren and Aintza.
 
   - Phrase: Gu emakumeak gara.
     Alternative versions:
@@ -153,7 +153,7 @@ Phrases:
     Translation: They are also boys.
 
   - Phrase: Terese eta Karmele neskak dira.
-    Translation: Terese and Karmele are also girls.
+    Translation: Terese and Karmele are girls.
 
   - Phrase: Terese eta Karmele ere ikasleak dira.
     Translation: Terese and Karmele are also students.
@@ -195,7 +195,7 @@ Mini-dictionary:
     - Terese: Terese (female name)
     - also: ere
     - are:
-      - gare
+      - gara
       - zarete
       - dira
     - boys: mutilak
