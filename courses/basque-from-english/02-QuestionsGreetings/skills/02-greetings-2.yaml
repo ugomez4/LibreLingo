@@ -107,7 +107,7 @@ Phrases:
 Mini-dictionary:
   Basque:
     - Mikel: Mikel(male name)
-    - autobusa: bus
+    - autobus: bus
     - da: is
     - naiz: am
     - agur: goodbye
@@ -123,7 +123,8 @@ Mini-dictionary:
     - berandu: late
     - ongi: well
     - epa: hi
-    - etorri: arrive
+    - etorri: come
+    - heldu: arrive
     - mesedez: please
     - moduz: are you
     - nor: who
@@ -133,21 +134,22 @@ Mini-dictionary:
     - Mikel: Mikel(male name)
     - I: ni
     - am: naiz
-    - bus: autobusa
+    - bus: autobus
     - goodbye: agur
     - how: nola
     - tomorrow: bihar
     - until: arte
     - no: ez
-    - nothing: ez ezer
+    - nothing: ezer ez
     - good: ondo
-    - night: gaua
+    - night: gau
     - later: gero
     - late: berandu
     - see: ikusi
     - sorry: barkatu
     - well: ongi
-    - arrive: etorri
+    - come: etorri
+    - arrive: heldu
     - hello: kaixo
     - hi: epa
     - the: -a
