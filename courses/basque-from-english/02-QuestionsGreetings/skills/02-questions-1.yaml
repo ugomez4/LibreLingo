@@ -111,12 +111,12 @@ Phrases:
     Alternative translations:
       - Is he the boy?
 
-  - Phrase: Hura al autobusa da?
+  - Phrase: Hura al da autobusa?
     Translation: Is it the bus?
     Alternative translations:
       - Is it a bus?
 
-  - Phrase: Kotxe al bat ere da.
+  - Phrase: Kotxe bat al da ere?
     Translation: Is it also a car?
 
   - Phrase: Hura autobusa edo kotxea da?
@@ -142,7 +142,7 @@ Phrases:
   - Phrase: Zer dira haiek?
     Translation: What are they?
 
-  - Phrase: Haiek al autobusak dira?
+  - Phrase: Haiek autobusak al dira?
     Translation: Are they buses?
 
   - Phrase: Haiek autobusak edo kotxeak dira?
@@ -162,13 +162,13 @@ Phrases:
       - Are you teachers?
       - Are you'll teachers?
 
-  - Phrase: Nortzuk irakasleak dira?
+  - Phrase: Nortzuk dira irakasleak?
     Translation: Who are the teachers?
 
   - Phrase: Nortzuk emakumeak dira?
     Translation: Who are the women?
 
-  - Phrase: Nortzuk gizonak dira?
+  - Phrase: Nortzuk dira gizonak?
     Translation: Who are the men?
 
   - Phrase: Nortzuk dira haiek?
@@ -200,7 +200,7 @@ Mini-dictionary:
     - kaixo: hello
     - kotxea: a car
     - kotxeak: cars
-    - mutila: boy
+    - mutila: a boy
     - neska: a girl
     - nor: who
     - nortzuk: who(plural)
