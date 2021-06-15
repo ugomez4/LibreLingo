@@ -7,7 +7,7 @@
 
 ### Interrogative questions
 Interrogative questions (as opposed to yes/no questions) use question words, such as:
-* Zer (what) and nor/nortzunk (who(single/plural)), and take the form of Question word * verb *
+* Zer (what) and nor/nortzuk (who(single/plural)), and take the form of Question word * verb *
 subject.
 * Nor zara zu? Who are you?
 * Zer zara zu? What are you?
