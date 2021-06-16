@@ -36,7 +36,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "rather",
@@ -90,7 +90,7 @@
         },
         {
           "word": "baizik",
-          "definition": "but (rather)\nbut(rather)\nrather"
+          "definition": "but (rather)\nbut rather\nbut(rather)\nrather"
         },
         {
           "word": "denda.",
@@ -197,7 +197,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "rather",
@@ -251,7 +251,7 @@
         },
         {
           "word": "baizik",
-          "definition": "but (rather)\nbut(rather)\nrather"
+          "definition": "but (rather)\nbut rather\nbut(rather)\nrather"
         },
         {
           "word": "ostatua.",
@@ -358,7 +358,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "rather",
@@ -424,7 +424,7 @@
         },
         {
           "word": "baizik",
-          "definition": "but (rather)\nbut(rather)\nrather"
+          "definition": "but (rather)\nbut rather\nbut(rather)\nrather"
         },
         {
           "word": "gorria",
@@ -1005,7 +1005,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "rather",
@@ -1073,7 +1073,7 @@
         },
         {
           "word": "baizik",
-          "definition": "but (rather)\nbut(rather)\nrather"
+          "definition": "but (rather)\nbut rather\nbut(rather)\nrather"
         },
         {
           "word": "eliza",
@@ -1085,7 +1085,7 @@
         },
         {
           "word": "baizik.",
-          "definition": "but (rather)\nbut(rather)\nrather"
+          "definition": "but (rather)\nbut rather\nbut(rather)\nrather"
         }
       ],
       "chips": [
@@ -1168,7 +1168,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "the",
@@ -1328,7 +1328,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "rather",
@@ -1394,7 +1394,7 @@
         },
         {
           "word": "baizik",
-          "definition": "but (rather)\nbut(rather)\nrather"
+          "definition": "but (rather)\nbut rather\nbut(rather)\nrather"
         },
         {
           "word": "etxe",
@@ -1493,7 +1493,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "rather",
@@ -1559,7 +1559,7 @@
         },
         {
           "word": "baizik",
-          "definition": "but (rather)\nbut(rather)\nrather"
+          "definition": "but (rather)\nbut rather\nbut(rather)\nrather"
         },
         {
           "word": "denda",
@@ -1654,7 +1654,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "green.",
@@ -1774,7 +1774,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "I",
@@ -1928,7 +1928,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "I",
@@ -2186,7 +2186,7 @@
         },
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "nurses.",
@@ -2238,7 +2238,7 @@
         },
         {
           "word": "baizik",
-          "definition": "but (rather)\nbut(rather)\nrather"
+          "definition": "but (rather)\nbut rather\nbut(rather)\nrather"
         },
         {
           "word": "erizainak.",
@@ -2369,107 +2369,6 @@
       "group": "545480bbc14d"
     },
     {
-      "type": "options",
-      "formInTargetLanguage": "Zer kolorea da denda?",
-      "meaningInSourceLanguage": "What color is the store?",
-      "id": "d6861d4f84a5",
-      "priority": 0,
-      "group": "75199882c77e"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "What",
-          "definition": "zer"
-        },
-        {
-          "word": "color",
-          "definition": "kolore\nkolorea"
-        },
-        {
-          "word": "is",
-          "definition": "da\nda (izan)\ndago (egon)"
-        },
-        {
-          "word": "the",
-          "definition": "-a"
-        },
-        {
-          "word": "store?",
-          "definition": "denda"
-        }
-      ],
-      "chips": [
-        "Zer",
-        "kolorea",
-        "da",
-        "denda"
-      ],
-      "solutions": [
-        [
-          "Zer",
-          "kolorea",
-          "da",
-          "denda"
-        ]
-      ],
-      "formattedSolution": "Zer kolorea da denda?",
-      "id": "d04097d179fd",
-      "priority": 2,
-      "group": "75199882c77e"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Zer",
-          "definition": "what"
-        },
-        {
-          "word": "kolorea",
-          "definition": "color"
-        },
-        {
-          "word": "da",
-          "definition": "he is (izan)\nis\nit is (izan)\nshe is (izan)"
-        },
-        {
-          "word": "denda?",
-          "definition": "store"
-        }
-      ],
-      "chips": [
-        "What",
-        "color",
-        "is",
-        "the",
-        "store"
-      ],
-      "solutions": [
-        [
-          "What",
-          "color",
-          "is",
-          "the",
-          "store"
-        ],
-        [
-          "What",
-          "color",
-          "is",
-          "a",
-          "store"
-        ]
-      ],
-      "formattedSolution": "What color is the store?",
-      "id": "717306099020",
-      "priority": 2,
-      "group": "75199882c77e"
-    },
-    {
       "type": "cards",
       "pictures": [
         "no1.jpg",
@@ -2520,7 +2419,7 @@
       "phrase": [
         {
           "word": "but",
-          "definition": "baina"
+          "definition": "baina\nbaina, baizik"
         },
         {
           "word": "(rather)",

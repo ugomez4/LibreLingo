@@ -1111,39 +1111,6 @@
       "id": "a8bd8b952dc7",
       "priority": 1,
       "group": "7318e3c39b80"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "please1.jpg",
-        "please2.jpg",
-        "please3.jpg"
-      ],
-      "formInTargetLanguage": "mesedez",
-      "meaningInSourceLanguage": "please",
-      "id": "08091e61eded",
-      "priority": 0,
-      "group": "baea6f1999b3"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "please1.jpg",
-        "please2.jpg",
-        "please3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "mesedez"
-      ],
-      "phrase": [
-        {
-          "word": "please",
-          "definition": "mesedez"
-        }
-      ],
-      "id": "1d2bf5a3dc2e",
-      "priority": 1,
-      "group": "baea6f1999b3"
     }
   ]
 }
