@@ -1,5 +1,5 @@
 {
-  "id": "774279fe3de5",
+  "id": "037ac8184b22",
   "levels": 7,
   "challenges": [
     {
@@ -1130,11 +1130,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Non dago Mikel?",
-      "meaningInSourceLanguage": "Where is Mikel?",
-      "id": "3f31ec3c61d8",
+      "formInTargetLanguage": "Non dago eraztuna?",
+      "meaningInSourceLanguage": "Where is the ring?",
+      "id": "9695445f4ecf",
       "priority": 0,
-      "group": "e9107a936645"
+      "group": "777b83072623"
     },
     {
       "type": "chips",
@@ -1149,26 +1149,30 @@
           "definition": "da\nda (izan)\ndago (egon)"
         },
         {
-          "word": "Mikel?",
-          "definition": "Mikel (male name)\nMikel (name)\nMikel(male name)"
+          "word": "the",
+          "definition": "-a"
+        },
+        {
+          "word": "ring?",
+          "definition": "eraztun\neraztuna"
         }
       ],
       "chips": [
         "Non",
         "dago",
-        "Mikel"
+        "eraztuna"
       ],
       "solutions": [
         [
           "Non",
           "dago",
-          "Mikel"
+          "eraztuna"
         ]
       ],
-      "formattedSolution": "Non dago Mikel?",
-      "id": "6532e785b4b5",
+      "formattedSolution": "Non dago eraztuna?",
+      "id": "56b11ad9234b",
       "priority": 2,
-      "group": "e9107a936645"
+      "group": "777b83072623"
     },
     {
       "type": "chips",
@@ -1183,42 +1187,54 @@
           "definition": "he is (egon)\nit is (egon)\nshe is (egon)"
         },
         {
-          "word": "Mikel?",
-          "definition": "Mikel (male name)\nMikel(male name)"
+          "word": "eraztuna?",
+          "definition": "ring"
         }
       ],
       "chips": [
         "Where",
         "is",
-        "Mikel"
+        "the",
+        "ring"
       ],
       "solutions": [
         [
           "Where",
           "is",
-          "Mikel"
+          "the",
+          "ring"
+        ],
+        [
+          "Where",
+          "is",
+          "a",
+          "ring"
         ]
       ],
-      "formattedSolution": "Where is Mikel?",
-      "id": "89ff3d8e25a7",
+      "formattedSolution": "Where is the ring?",
+      "id": "8ef1e690f883",
       "priority": 2,
-      "group": "e9107a936645"
+      "group": "777b83072623"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Mikel Bilbon dago.",
-      "meaningInSourceLanguage": "Mikel is in Bilboa.",
-      "id": "2f6bb86f4840",
+      "formInTargetLanguage": "Eraztuna Bilbon dago.",
+      "meaningInSourceLanguage": "The ring is in Bilboa.",
+      "id": "827d9e36af4f",
       "priority": 0,
-      "group": "6cf87b799e97"
+      "group": "c35dca19620a"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Mikel",
-          "definition": "Mikel (male name)\nMikel (name)\nMikel(male name)"
+          "word": "The",
+          "definition": "-a"
+        },
+        {
+          "word": "ring",
+          "definition": "eraztun\neraztuna"
         },
         {
           "word": "is",
@@ -1234,29 +1250,29 @@
         }
       ],
       "chips": [
-        "Mikel",
+        "Eraztuna",
         "Bilbon",
         "dago"
       ],
       "solutions": [
         [
-          "Mikel",
+          "Eraztuna",
           "Bilbon",
           "dago"
         ]
       ],
-      "formattedSolution": "Mikel Bilbon dago.",
-      "id": "9c4c3c295b49",
+      "formattedSolution": "Eraztuna Bilbon dago.",
+      "id": "e81a708d91f4",
       "priority": 2,
-      "group": "6cf87b799e97"
+      "group": "c35dca19620a"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Mikel",
-          "definition": "Mikel (male name)\nMikel(male name)"
+          "word": "Eraztuna",
+          "definition": "ring"
         },
         {
           "word": "Bilbon",
@@ -1268,23 +1284,32 @@
         }
       ],
       "chips": [
-        "Mikel",
+        "The",
+        "ring",
         "is",
         "in",
         "Bilboa"
       ],
       "solutions": [
         [
-          "Mikel",
+          "The",
+          "ring",
+          "is",
+          "in",
+          "Bilboa"
+        ],
+        [
+          "A",
+          "ring",
           "is",
           "in",
           "Bilboa"
         ]
       ],
-      "formattedSolution": "Mikel is in Bilboa.",
-      "id": "0dd38c8184d7",
+      "formattedSolution": "The ring is in Bilboa.",
+      "id": "a7737e790a2b",
       "priority": 2,
-      "group": "6cf87b799e97"
+      "group": "c35dca19620a"
     },
     {
       "type": "options",
@@ -1376,16 +1401,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ardiak mendiaetan daude.",
-      "meaningInSourceLanguage": "Sheep are on the mountains.",
-      "id": "88168d01cb65",
+      "formInTargetLanguage": "Begira! Ardiak mendiaetan daude.",
+      "meaningInSourceLanguage": "Look! Sheep are on the mountains.",
+      "id": "b3e5b17dfe29",
       "priority": 0,
-      "group": "f3b1fa1d5935"
+      "group": "0ff15353fda9"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
+        {
+          "word": "Look!",
+          "definition": "begira"
+        },
         {
           "word": "Sheep",
           "definition": "ardi\nardiak"
@@ -1408,26 +1437,32 @@
         }
       ],
       "chips": [
+        "Begira",
         "Ardiak",
         "mendiaetan",
         "daude"
       ],
       "solutions": [
         [
+          "Begira",
           "Ardiak",
           "mendiaetan",
           "daude"
         ]
       ],
-      "formattedSolution": "Ardiak mendiaetan daude.",
-      "id": "707576c01819",
+      "formattedSolution": "Begira! Ardiak mendiaetan daude.",
+      "id": "464f911473e3",
       "priority": 2,
-      "group": "f3b1fa1d5935"
+      "group": "0ff15353fda9"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
+        {
+          "word": "Begira!",
+          "definition": "look"
+        },
         {
           "word": "Ardiak",
           "definition": "sheep\nsheep (plural)"
@@ -1442,6 +1477,7 @@
         }
       ],
       "chips": [
+        "Look",
         "Sheep",
         "are",
         "on",
@@ -1450,6 +1486,7 @@
       ],
       "solutions": [
         [
+          "Look",
           "Sheep",
           "are",
           "on",
@@ -1457,23 +1494,27 @@
           "mountains"
         ]
       ],
-      "formattedSolution": "Sheep are on the mountains.",
-      "id": "cb518ba53f6a",
+      "formattedSolution": "Look! Sheep are on the mountains.",
+      "id": "9957cc52c39e",
       "priority": 2,
-      "group": "f3b1fa1d5935"
+      "group": "0ff15353fda9"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ahuntzak basoetan daude.",
-      "meaningInSourceLanguage": "Goats are in the forests.",
-      "id": "7c72ea1ba0d5",
+      "formInTargetLanguage": "Begira! Ahuntzak basoetan daude.",
+      "meaningInSourceLanguage": "Look! Goats are in the forests.",
+      "id": "a3bc1ca89450",
       "priority": 0,
-      "group": "b094c5400645"
+      "group": "6a5043c97048"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
+        {
+          "word": "Look!",
+          "definition": "begira"
+        },
         {
           "word": "Goats",
           "definition": "ahuntzak"
@@ -1496,26 +1537,32 @@
         }
       ],
       "chips": [
+        "Begira",
         "Ahuntzak",
         "basoetan",
         "daude"
       ],
       "solutions": [
         [
+          "Begira",
           "Ahuntzak",
           "basoetan",
           "daude"
         ]
       ],
-      "formattedSolution": "Ahuntzak basoetan daude.",
-      "id": "d3bf2762da10",
+      "formattedSolution": "Begira! Ahuntzak basoetan daude.",
+      "id": "b81619a9b4b7",
       "priority": 2,
-      "group": "b094c5400645"
+      "group": "6a5043c97048"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
+        {
+          "word": "Begira!",
+          "definition": "look"
+        },
         {
           "word": "Ahuntzak",
           "definition": "goats"
@@ -1530,6 +1577,7 @@
         }
       ],
       "chips": [
+        "Look",
         "Goats",
         "are",
         "in",
@@ -1538,6 +1586,7 @@
       ],
       "solutions": [
         [
+          "Look",
           "Goats",
           "are",
           "in",
@@ -1545,10 +1594,10 @@
           "forests"
         ]
       ],
-      "formattedSolution": "Goats are in the forests.",
-      "id": "50349497b5ac",
+      "formattedSolution": "Look! Goats are in the forests.",
+      "id": "b0ab7eb5446d",
       "priority": 2,
-      "group": "b094c5400645"
+      "group": "6a5043c97048"
     },
     {
       "type": "options",

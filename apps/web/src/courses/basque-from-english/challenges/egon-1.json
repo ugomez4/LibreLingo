@@ -1,19 +1,27 @@
 {
-  "id": "e73de0f9d242",
+  "id": "373d0f2f7eef",
   "levels": 7,
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Non zaude zu?",
-      "meaningInSourceLanguage": "Where are you?",
-      "id": "d3afcbebaa03",
+      "formInTargetLanguage": "Arratsalde on. Non zaude zu?",
+      "meaningInSourceLanguage": "Good Afternoon. Where are you?",
+      "id": "151c0ce4d154",
       "priority": 0,
-      "group": "a458e30735e2"
+      "group": "296361c61bbc"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
+        {
+          "word": "Good",
+          "definition": "on\nonak\nondo"
+        },
+        {
+          "word": "Afternoon.",
+          "definition": "arratsalde"
+        },
         {
           "word": "Where",
           "definition": "non"
@@ -28,26 +36,38 @@
         }
       ],
       "chips": [
+        "Arratsalde",
+        "on",
         "Non",
         "zaude",
         "zu"
       ],
       "solutions": [
         [
+          "Arratsalde",
+          "on",
           "Non",
           "zaude",
           "zu"
         ]
       ],
-      "formattedSolution": "Non zaude zu?",
-      "id": "dc55460a83c8",
+      "formattedSolution": "Arratsalde on. Non zaude zu?",
+      "id": "d2569ed669a6",
       "priority": 2,
-      "group": "a458e30735e2"
+      "group": "296361c61bbc"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
+        {
+          "word": "Arratsalde",
+          "definition": "afternoon"
+        },
+        {
+          "word": "on.",
+          "definition": "good"
+        },
         {
           "word": "Non",
           "definition": "where"
@@ -62,29 +82,33 @@
         }
       ],
       "chips": [
+        "Good",
+        "Afternoon",
         "Where",
         "are",
         "you"
       ],
       "solutions": [
         [
+          "Good",
+          "Afternoon",
           "Where",
           "are",
           "you"
         ]
       ],
-      "formattedSolution": "Where are you?",
-      "id": "ef7ecf018c97",
+      "formattedSolution": "Good Afternoon. Where are you?",
+      "id": "ccdef7acf815",
       "priority": 2,
-      "group": "a458e30735e2"
+      "group": "296361c61bbc"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Non dago hura?",
-      "meaningInSourceLanguage": "Where is he?",
-      "id": "e4ae60bfdd97",
+      "formInTargetLanguage": "Non dago etxekoandrea?",
+      "meaningInSourceLanguage": "Where is the housewife?",
+      "id": "290acc05df6c",
       "priority": 0,
-      "group": "82787019f663"
+      "group": "e1b704d14e4b"
     },
     {
       "type": "chips",
@@ -99,26 +123,30 @@
           "definition": "da\nda (izan)\ndago (egon)"
         },
         {
-          "word": "he?",
-          "definition": "hura"
+          "word": "the",
+          "definition": "-a"
+        },
+        {
+          "word": "housewife?",
+          "definition": "etxekoandre\netxekoandrea"
         }
       ],
       "chips": [
         "Non",
         "dago",
-        "hura"
+        "etxekoandrea"
       ],
       "solutions": [
         [
           "Non",
           "dago",
-          "hura"
+          "etxekoandrea"
         ]
       ],
-      "formattedSolution": "Non dago hura?",
-      "id": "075de3a1827e",
+      "formattedSolution": "Non dago etxekoandrea?",
+      "id": "40992de32613",
       "priority": 2,
-      "group": "82787019f663"
+      "group": "e1b704d14e4b"
     },
     {
       "type": "chips",
@@ -133,26 +161,28 @@
           "definition": "he is (egon)\nit is (egon)\nshe is (egon)"
         },
         {
-          "word": "hura?",
-          "definition": "he\nit\nitr\nshe\nthat over there"
+          "word": "etxekoandrea?",
+          "definition": "housewife\nthe housewife"
         }
       ],
       "chips": [
         "Where",
         "is",
-        "he"
+        "the",
+        "housewife"
       ],
       "solutions": [
         [
           "Where",
           "is",
-          "he"
+          "the",
+          "housewife"
         ]
       ],
-      "formattedSolution": "Where is he?",
-      "id": "81933476f68c",
+      "formattedSolution": "Where is the housewife?",
+      "id": "119642d75f31",
       "priority": 2,
-      "group": "82787019f663"
+      "group": "e1b704d14e4b"
     },
     {
       "type": "options",
@@ -251,11 +281,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Non dago neska?",
-      "meaningInSourceLanguage": "Where is the girl?",
-      "id": "d65239fa7aad",
+      "formInTargetLanguage": "Non dago arrotza?",
+      "meaningInSourceLanguage": "Where is the stranger?",
+      "id": "36118b063524",
       "priority": 0,
-      "group": "21e6ba6f4f2a"
+      "group": "a91028ef044f"
     },
     {
       "type": "chips",
@@ -274,26 +304,26 @@
           "definition": "-a"
         },
         {
-          "word": "girl?",
-          "definition": "neska"
+          "word": "stranger?",
+          "definition": "arrotz\narrotza"
         }
       ],
       "chips": [
         "Non",
         "dago",
-        "neska"
+        "arrotza"
       ],
       "solutions": [
         [
           "Non",
           "dago",
-          "neska"
+          "arrotza"
         ]
       ],
-      "formattedSolution": "Non dago neska?",
-      "id": "b6dc38bc15f3",
+      "formattedSolution": "Non dago arrotza?",
+      "id": "0382999e888b",
       "priority": 2,
-      "group": "21e6ba6f4f2a"
+      "group": "a91028ef044f"
     },
     {
       "type": "chips",
@@ -308,44 +338,54 @@
           "definition": "he is (egon)\nit is (egon)\nshe is (egon)"
         },
         {
-          "word": "neska?",
-          "definition": "a girl\ngirl\nthe girl"
+          "word": "arrotza?",
+          "definition": "stranger\nthe stranger"
         }
       ],
       "chips": [
         "Where",
         "is",
         "the",
-        "girl"
+        "stranger"
       ],
       "solutions": [
         [
           "Where",
           "is",
           "the",
-          "girl"
+          "stranger"
+        ],
+        [
+          "Where",
+          "is",
+          "a",
+          "stranger"
         ]
       ],
-      "formattedSolution": "Where is the girl?",
-      "id": "56e250324972",
+      "formattedSolution": "Where is the stranger?",
+      "id": "6b4ddddfa984",
       "priority": 2,
-      "group": "21e6ba6f4f2a"
+      "group": "a91028ef044f"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Hura hotelan dago.",
-      "meaningInSourceLanguage": "She is in a hotel.",
-      "id": "4c464cef1a99",
+      "formInTargetLanguage": "Arrotza hotelan dago.",
+      "meaningInSourceLanguage": "The stranger is in a hotel.",
+      "id": "352972b97ae4",
       "priority": 0,
-      "group": "62216bb04a07"
+      "group": "aa974e242d83"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "She",
-          "definition": "hura"
+          "word": "The",
+          "definition": "-a"
+        },
+        {
+          "word": "stranger",
+          "definition": "arrotz\narrotza"
         },
         {
           "word": "is",
@@ -365,29 +405,29 @@
         }
       ],
       "chips": [
-        "Hura",
+        "Arrotza",
         "hotelan",
         "dago"
       ],
       "solutions": [
         [
-          "Hura",
+          "Arrotza",
           "hotelan",
           "dago"
         ]
       ],
-      "formattedSolution": "Hura hotelan dago.",
-      "id": "c6a947d88d05",
+      "formattedSolution": "Arrotza hotelan dago.",
+      "id": "a70a8274ca31",
       "priority": 2,
-      "group": "62216bb04a07"
+      "group": "aa974e242d83"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Hura",
-          "definition": "he\nit\nitr\nshe\nthat over there"
+          "word": "Arrotza",
+          "definition": "stranger\nthe stranger"
         },
         {
           "word": "hotelan",
@@ -399,7 +439,8 @@
         }
       ],
       "chips": [
-        "She",
+        "The",
+        "stranger",
         "is",
         "in",
         "a",
@@ -407,38 +448,26 @@
       ],
       "solutions": [
         [
-          "She",
+          "The",
+          "stranger",
           "is",
           "in",
           "a",
           "hotel"
         ],
         [
-          "He",
+          "A",
+          "stranger",
           "is",
           "in",
           "a",
-          "hotel"
-        ],
-        [
-          "She",
-          "is",
-          "in",
-          "the",
-          "hotel"
-        ],
-        [
-          "He",
-          "is",
-          "in",
-          "the",
           "hotel"
         ]
       ],
-      "formattedSolution": "She is in a hotel.",
-      "id": "a323a33fbb59",
+      "formattedSolution": "The stranger is in a hotel.",
+      "id": "4d46f7038035",
       "priority": 2,
-      "group": "62216bb04a07"
+      "group": "aa974e242d83"
     },
     {
       "type": "options",
@@ -618,11 +647,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Hontzak elizan daude.",
-      "meaningInSourceLanguage": "The owls are in the church.",
-      "id": "057b41517aa4",
+      "formInTargetLanguage": "Apaizak  elizan daude.",
+      "meaningInSourceLanguage": "The priests are in the church.",
+      "id": "963ec3f06980",
       "priority": 0,
-      "group": "30bb72055bb0"
+      "group": "5d2ee9254f02"
     },
     {
       "type": "chips",
@@ -633,8 +662,8 @@
           "definition": "-a"
         },
         {
-          "word": "owls",
-          "definition": "hontzak"
+          "word": "priests",
+          "definition": "apaizak"
         },
         {
           "word": "are",
@@ -654,29 +683,29 @@
         }
       ],
       "chips": [
-        "Hontzak",
+        "Apaizak",
         "elizan",
         "daude"
       ],
       "solutions": [
         [
-          "Hontzak",
+          "Apaizak",
           "elizan",
           "daude"
         ]
       ],
-      "formattedSolution": "Hontzak elizan daude.",
-      "id": "6f29b993a3f0",
+      "formattedSolution": "Apaizak  elizan daude.",
+      "id": "2840bb57fb11",
       "priority": 2,
-      "group": "30bb72055bb0"
+      "group": "5d2ee9254f02"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Hontzak",
-          "definition": "owls"
+          "word": "Apaizak",
+          "definition": "priests"
         },
         {
           "word": "elizan",
@@ -689,7 +718,7 @@
       ],
       "chips": [
         "The",
-        "owls",
+        "priests",
         "are",
         "in",
         "the",
@@ -698,17 +727,17 @@
       "solutions": [
         [
           "The",
-          "owls",
+          "priests",
           "are",
           "in",
           "the",
           "church"
         ]
       ],
-      "formattedSolution": "The owls are in the church.",
-      "id": "116ab9efcf66",
+      "formattedSolution": "The priests are in the church.",
+      "id": "20266b7dd7a6",
       "priority": 2,
-      "group": "30bb72055bb0"
+      "group": "5d2ee9254f02"
     },
     {
       "type": "options",
@@ -806,11 +835,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Txori bat dago zuhaitzean.",
+      "formInTargetLanguage": "Txoria dago zuhaitzean.",
       "meaningInSourceLanguage": "A bird is in the tree.",
-      "id": "dbd04fcb7267",
+      "id": "dad1acd7beed",
       "priority": 0,
-      "group": "3b274efdd2c4"
+      "group": "4094070ea5f2"
     },
     {
       "type": "chips",
@@ -842,35 +871,29 @@
         }
       ],
       "chips": [
-        "Txori",
-        "bat",
+        "Txoria",
         "dago",
         "zuhaitzean"
       ],
       "solutions": [
         [
-          "Txori",
-          "bat",
+          "Txoria",
           "dago",
           "zuhaitzean"
         ]
       ],
-      "formattedSolution": "Txori bat dago zuhaitzean.",
-      "id": "7ecbe97880d1",
+      "formattedSolution": "Txoria dago zuhaitzean.",
+      "id": "307c84453b9f",
       "priority": 2,
-      "group": "3b274efdd2c4"
+      "group": "4094070ea5f2"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Txori",
+          "word": "Txoria",
           "definition": "bird"
-        },
-        {
-          "word": "bat",
-          "definition": "one"
         },
         {
           "word": "dago",
@@ -897,12 +920,36 @@
           "in",
           "the",
           "tree"
+        ],
+        [
+          "A",
+          "bird",
+          "is",
+          "in",
+          "a",
+          "tree"
+        ],
+        [
+          "The",
+          "bird",
+          "is",
+          "in",
+          "a",
+          "tree"
+        ],
+        [
+          "The",
+          "bird",
+          "is",
+          "in",
+          "the",
+          "tree"
         ]
       ],
       "formattedSolution": "A bird is in the tree.",
-      "id": "81bb0f5d7992",
+      "id": "a0cb262e5ede",
       "priority": 2,
-      "group": "3b274efdd2c4"
+      "group": "4094070ea5f2"
     },
     {
       "type": "options",
@@ -983,10 +1030,10 @@
     {
       "type": "options",
       "formInTargetLanguage": "Gu elizan gaude.",
-      "meaningInSourceLanguage": "We are in a church.",
-      "id": "322a9a7edaa2",
+      "meaningInSourceLanguage": "We are in the church.",
+      "id": "746632fad3ae",
       "priority": 0,
-      "group": "8a60c70332a4"
+      "group": "a885a90585d1"
     },
     {
       "type": "chips",
@@ -1005,7 +1052,7 @@
           "definition": "NON case, not a word"
         },
         {
-          "word": "a",
+          "word": "the",
           "definition": "-a"
         },
         {
@@ -1026,9 +1073,9 @@
         ]
       ],
       "formattedSolution": "Gu elizan gaude.",
-      "id": "280ca5b00e7b",
+      "id": "bf758ec7f27b",
       "priority": 2,
-      "group": "8a60c70332a4"
+      "group": "a885a90585d1"
     },
     {
       "type": "chips",
@@ -1051,10 +1098,17 @@
         "We",
         "are",
         "in",
-        "a",
+        "the",
         "church"
       ],
       "solutions": [
+        [
+          "We",
+          "are",
+          "in",
+          "the",
+          "church"
+        ],
         [
           "We",
           "are",
@@ -1063,10 +1117,10 @@
           "church"
         ]
       ],
-      "formattedSolution": "We are in a church.",
-      "id": "bc19bdf12114",
+      "formattedSolution": "We are in the church.",
+      "id": "fa2bb2288688",
       "priority": 2,
-      "group": "8a60c70332a4"
+      "group": "a885a90585d1"
     },
     {
       "type": "options",
@@ -1247,11 +1301,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Non dago Mikel?",
-      "meaningInSourceLanguage": "Where is Mikel?",
-      "id": "3f31ec3c61d8",
+      "formInTargetLanguage": "Non dago camareroa?",
+      "meaningInSourceLanguage": "Where is the waiter?",
+      "id": "cb246708a851",
       "priority": 0,
-      "group": "e9107a936645"
+      "group": "e86f5e2246b4"
     },
     {
       "type": "chips",
@@ -1266,26 +1320,30 @@
           "definition": "da\nda (izan)\ndago (egon)"
         },
         {
-          "word": "Mikel?",
-          "definition": "Mikel (male name)\nMikel (name)\nMikel(male name)"
+          "word": "the",
+          "definition": "-a"
+        },
+        {
+          "word": "waiter?",
+          "definition": "camarero\ncamareroa"
         }
       ],
       "chips": [
         "Non",
         "dago",
-        "Mikel"
+        "camareroa"
       ],
       "solutions": [
         [
           "Non",
           "dago",
-          "Mikel"
+          "camareroa"
         ]
       ],
-      "formattedSolution": "Non dago Mikel?",
-      "id": "6532e785b4b5",
+      "formattedSolution": "Non dago camareroa?",
+      "id": "8f712961ff9d",
       "priority": 2,
-      "group": "e9107a936645"
+      "group": "e86f5e2246b4"
     },
     {
       "type": "chips",
@@ -1300,42 +1358,54 @@
           "definition": "he is (egon)\nit is (egon)\nshe is (egon)"
         },
         {
-          "word": "Mikel?",
-          "definition": "Mikel (male name)\nMikel(male name)"
+          "word": "camareroa?",
+          "definition": "the waiter\nwaiter"
         }
       ],
       "chips": [
         "Where",
         "is",
-        "Mikel"
+        "the",
+        "waiter"
       ],
       "solutions": [
         [
           "Where",
           "is",
-          "Mikel"
+          "the",
+          "waiter"
+        ],
+        [
+          "Where",
+          "is",
+          "a",
+          "waiter"
         ]
       ],
-      "formattedSolution": "Where is Mikel?",
-      "id": "89ff3d8e25a7",
+      "formattedSolution": "Where is the waiter?",
+      "id": "5bdf690bff7f",
       "priority": 2,
-      "group": "e9107a936645"
+      "group": "e86f5e2246b4"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Mikel dago zuhaitzean.",
-      "meaningInSourceLanguage": "Mikel is in the tree.",
-      "id": "ec01e4c855bf",
+      "formInTargetLanguage": "Mutila dago zuhaitzean.",
+      "meaningInSourceLanguage": "A boy is in the tree.",
+      "id": "53424841f3d6",
       "priority": 0,
-      "group": "2d1ec24a587e"
+      "group": "d95160d8dbbd"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Mikel",
-          "definition": "Mikel (male name)\nMikel (name)\nMikel(male name)"
+          "word": "A",
+          "definition": "-a"
+        },
+        {
+          "word": "boy",
+          "definition": "mutil\nmutila"
         },
         {
           "word": "is",
@@ -1355,29 +1425,29 @@
         }
       ],
       "chips": [
-        "Mikel",
+        "Mutila",
         "dago",
         "zuhaitzean"
       ],
       "solutions": [
         [
-          "Mikel",
+          "Mutila",
           "dago",
           "zuhaitzean"
         ]
       ],
-      "formattedSolution": "Mikel dago zuhaitzean.",
-      "id": "8eb494929502",
+      "formattedSolution": "Mutila dago zuhaitzean.",
+      "id": "7fe5012b416d",
       "priority": 2,
-      "group": "2d1ec24a587e"
+      "group": "d95160d8dbbd"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Mikel",
-          "definition": "Mikel (male name)\nMikel(male name)"
+          "word": "Mutila",
+          "definition": "a boy\nboy\nthe boy"
         },
         {
           "word": "dago",
@@ -1389,7 +1459,8 @@
         }
       ],
       "chips": [
-        "Mikel",
+        "A",
+        "boy",
         "is",
         "in",
         "the",
@@ -1397,17 +1468,42 @@
       ],
       "solutions": [
         [
-          "Mikel",
+          "A",
+          "boy",
+          "is",
+          "in",
+          "the",
+          "tree"
+        ],
+        [
+          "A",
+          "boy",
+          "is",
+          "in",
+          "a",
+          "tree"
+        ],
+        [
+          "The",
+          "boy",
+          "is",
+          "in",
+          "a",
+          "tree"
+        ],
+        [
+          "The",
+          "boy",
           "is",
           "in",
           "the",
           "tree"
         ]
       ],
-      "formattedSolution": "Mikel is in the tree.",
-      "id": "0de93432baba",
+      "formattedSolution": "A boy is in the tree.",
+      "id": "bdc57f30c479",
       "priority": 2,
-      "group": "2d1ec24a587e"
+      "group": "d95160d8dbbd"
     },
     {
       "type": "options",
