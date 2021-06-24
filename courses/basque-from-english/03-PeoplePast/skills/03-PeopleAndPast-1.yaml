@@ -40,7 +40,7 @@ New words:
       - tourguide2
       - tourguide3
 
-  - Word: turist
+  - Word: turista
     Translation: tourist
     Images:
       - tourist1
@@ -78,7 +78,7 @@ Phrases:
   - Phrase: Kaixo. Ni ere erizaina naiz.
     Translation: Hello. I am also a nurse.
 
-  - Phrase: Egun on. Zu al medikua zara?
+  - Phrase: Egun on. Zu medikua al zara?
     Translation: Good Morning. Are you a doctor?
     Alternative translations:
       - Good Morning. Are you the doctor?
@@ -110,7 +110,7 @@ Phrases:
       - You(plural) are tourists.
       - You'll are tourists.
 
-  - Phrase: Zuek al poliziak zarete?
+  - Phrase: Zuek poliziak al zarete?
     Translation: Are you(plural) police officers?
     Alternative translations:
       - Are you'll police officers?
@@ -119,7 +119,7 @@ Phrases:
       - Are you'll the police officers?
       - Are you the police officers?
 
-  - Phrase: Hura al polizia bat da.
+  - Phrase: Hura polizia al da?
     Translation: Is he a police officer?
     Alternative translations:
       - Is she a police officer?
@@ -168,8 +168,7 @@ Mini-dictionary:
     - tour: tour
     - gida: guide
     - gidak: guides
-    - turist: tourist
-    - turista: the tourist
+    - turista: (the) tourist
     - turistak: tourists
     - zara: are
     - zarete: are
