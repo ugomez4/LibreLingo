@@ -59,14 +59,14 @@ New words:
       - house3
 
 Phrases:
-  - Phrase: Ez da hotela, baizik denda.
+  - Phrase: Ez da hotela, denda baizik.
     Translation: It is not a hotel, but rather a store.
     Alternative translations:
       - It is not the hotel, but rather the store.
       - It is not the hotel, but rather it is the store.
       - It is not a hotel, but rather it is a store.
 
-  - Phrase: Ez zen etxea, baizik ostatua.
+  - Phrase: Ez zen etxea, ostatua baizik.
     Translation: It was not a house, but rather a mini-hotel.
     Alternative translations:
       - It was not the house, but rather the mini-hotel.
@@ -99,7 +99,7 @@ Phrases:
     Alternative translations:
       - A mini-hotel is not white.
 
-  - Phrase: Ez da etxe beltza, baizik eliza zuria baizik.
+  - Phrase: Ez da etxe beltza, eliza zuria baizik.
     Translation: It is not a black house, but rather a white church.
     Alternative translations:
       - It is not the black house, but rather the white church.
@@ -114,7 +114,7 @@ Phrases:
     Alternative translations:
       - It was not the store, but rather it was the house.
 
-  - Phrase: Ez da denda gorria, baizik denda berdea.
+  - Phrase: Ez da denda gorria, denda berdea baizik.
     Translation: It is not a red store, but rather a green store.
     Alternative translations:
       - It is not the red store, but rather the green store.
@@ -122,12 +122,12 @@ Phrases:
   - Phrase: Dendak ez ziren zuriak, baina berdeak.
     Translation: The stores were not not white, but green.
 
-  - Phrase: Hura ez da medikua, baina medikua zen.
+  - Phrase: Hura ez da medikua, baina ni medikua nintzen.
     Translation: She is not a doctor, but I was a doctor.
     Alternative translations:
       - He is not a doctor, but I was a doctor.
 
-  - Phrase: Hura ez zen ikaslea, baina irakaslea nintzen.
+  - Phrase: Hura ez zen ikaslea, baina ni irakaslea nintzen.
     Translation: He was not a student, but I was a teacher.
     Alternative translations:
       - She was not a student, but I was a teacher.
@@ -137,7 +137,7 @@ Phrases:
     Alternative translations:
       - You are not the police officer.
 
-  - Phrase: Gu ez ginen medikuak, baizik erizainak.
+  - Phrase: Gu ez ginen medikuak, erizainak baizik.
     Translation: We were not doctors, but nurses.
 
   - Phrase: Zuek ez zineten turistak.
@@ -184,7 +184,7 @@ Mini-dictionary:
     - medikuak: doctors
     - nintzen: was
     - ostatu: mini-hotel
-    - ostatua: mini-hotel
+    - ostatua: the mini-hotel
     - polizia: police officer
     - turista: tourist
     - turistak: tourists
