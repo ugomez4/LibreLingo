@@ -9,7 +9,7 @@
 
 * The word “baizik” is used like baina, but means “not this, but rather that. It is similar to the Spanish word “sino”.
 * The car is not red, but rather it is blue. Kotxea ez da gorria, urdina baizik.
-* It was not a house, but rather a mini-hotel. Ez zen etxe, baizik ostatua.
+* It was not a house, but rather a mini-hotel. Ez zen etxea, ostatua baizik.
 
 ### Vocabulary Adjectives & No 2
 * ez : no/not
