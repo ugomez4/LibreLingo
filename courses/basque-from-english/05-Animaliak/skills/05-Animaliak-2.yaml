@@ -94,7 +94,7 @@ Phrases:
   - Phrase: Behiak dira. Ez dira ahuntzak.
     Translation: They are cows. They are not goats.
 
-  - Phrase: Zuek txerri altuak eta ardi laburak zarete.
+  - Phrase: Zuek txerri altuak eta ardi laburrak zarete.
     Alternative versions:
       - Txerri altuak eta ardi laburak zarete.
     Translation: You(plural) are tall pigs and short sheep.
@@ -110,7 +110,7 @@ Phrases:
     Alternative translations:
       - It is the bird, not the fish.
 
-  - Phrase: Zaldia animalia da?
+  - Phrase: Zaldia animalia al da?
     Translation: Is a horse an animal?
     Alternative translations:
       - Is the horse an animal?
@@ -139,7 +139,7 @@ Phrases:
       - The fish is not the snake.
       - A fish is not the snake.
 
-  - Phrase: Ez da ardia, baizik ahuntz bat.
+  - Phrase: Ez da ardia, ahuntz bat baizik.
     Translation: It is not a sheep, but rather a goat.
     Alternative translations:
       - It is not the sheep, but rather a goat.
@@ -219,8 +219,8 @@ Mini-dictionary:
     - kotxe: car
     - kotxea: car
     - kotxeak: cars
-    - labura: short
-    - laburak: short
+    - laburra: short
+    - laburrak: short
     - laranja: orange
     - laranjak: orange
     - marroia: brown
@@ -258,7 +258,7 @@ Mini-dictionary:
     - uso: pigeon
     - usoa: a pigeon
     - usoak: pigeons
-    - zahara: old
+    - zahar: old
     - zaharra: old
     - zaldi: horse
     - zaldia: a horse
