@@ -59,7 +59,7 @@ Phrases:
     Alternative translations:
       - A big goat was strong.
 
-  - Phrase: Zaldi euskalak ederrak eta jatorak dira.
+  - Phrase: Euskal zaldiak ederrak eta jatorak dira.
     Translation: The Basque horses are beautiful and nice.
 
   - Phrase: Txerri txikia ona da.
@@ -78,7 +78,7 @@ Phrases:
     Alternative translations:
       - A new dog is good.
 
-  - Phrase: Suge luzea jatora da, baina ahula.
+  - Phrase: Suge luzea jatorra da, baina ahula.
     Translation: The long snake is nice, but weak.
     Alternative translations:
       - A long snake is nice, weak.
@@ -91,7 +91,7 @@ Phrases:
     Alternative translations:
       - A small mouse was bad.
 
-  - Phrase: Ardi euskalak azkarra dira.
+  - Phrase: Euskal ardiak azkarrak dira.
     Translation: The Basque sheep are fast.
 
   - Phrase: Hontz txikia eta berdea ahula eta motela da.
@@ -102,7 +102,7 @@ Phrases:
   - Phrase: Zaldi altua ederra da.
     Translation: The tall horse is beautiful.
 
-  - Phrase: Txoria azkarra indartsua da.
+  - Phrase: Txori azkarra indartsua da.
     Translation: The fast bird is strong.
 
   - Phrase: Arrain horiak motelak eta itsusiak ziren.
@@ -111,7 +111,7 @@ Phrases:
   - Phrase: Hontz itsusi gizen berdea txarra da.
     Translation: The ugly, fat, green owl is bad.
 
-  - Phrase: Dortoka polit berdea jatora da.
+  - Phrase: Dortoka polit berdea jatorra da.
     Translation: The pretty, green turtle is nice.
 
 Mini-dictionary:
@@ -158,8 +158,6 @@ Mini-dictionary:
     - ederra: beautiful
     - ere: also
     - euskal: basque (ad)
-    - euskala: basque (ad)
-    - euskalak: basque (ad)
     - eta: and
     - ez: not
     - gaztea: young
@@ -192,16 +190,16 @@ Mini-dictionary:
     - itsusia: ugly
     - itsusiak: ugly
     - jator: nice
-    - jatora: nice
-    - jatorak: nice
+    - jatorra: nice
+    - jatorrak: nice
     - katu: cat
     - katua: a cat
     - katuak: cats
     - kotxe: car
     - kotxea: car
     - kotxeak: cars
-    - labura: short
-    - laburak: short
+    - laburra: short
+    - laburrak: short
     - laranja: orange
     - laranjak: orange
     - luze: large
@@ -233,7 +231,7 @@ Mini-dictionary:
     - sugea: a snake
     - sugeak: snakes
     - txakur: dog
-    - txakura: a dog
+    - txakurra: a dog
     - txakurrak: dogs
     - txar: bad
     - txarra: bad
@@ -247,7 +245,7 @@ Mini-dictionary:
     - urdin: blue
     - urdina: blue
     - urdinak: blue
-    - zahara: old
+    - zahar: old
     - zaharra: old
     - zaldi: horse
     - zaldia: a horse
@@ -321,7 +319,7 @@ Mini-dictionary:
     - mice: saguak
     - mouse: sagu
     - new: berri
-    - nice: jatora
+    - nice: jatorra
     - not: ez
     - now: orain
     - old:
