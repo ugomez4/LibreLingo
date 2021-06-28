@@ -57,7 +57,7 @@ Phrases:
     Alternative translations:
       - Lili is the green turtle.
 
-  - Phrase: Hontz gizena itsusia da..
+  - Phrase: Hontz gizena itsusia da.
     Translation: The fat owl is ugly.
 
   - Phrase: Oilaskoa eta hontza txoriak dira.
@@ -80,7 +80,7 @@ Phrases:
     Alternative translations:
       - A purple bird is small.
 
-  - Phrase: Katu argala labura da.
+  - Phrase: Katu argala laburra da.
     Translation: The thin cat is short.
     Alternative translations:
       - A thin cat is short.
@@ -88,7 +88,7 @@ Phrases:
   - Phrase: Txakurrak eta katuak animaliak dira.
     Translation: Dogs and cats are animals.
 
-  - Phrase: Mutila ez da katua
+  - Phrase: Mutila ez da katua.
     Translation: The boy is not a cat.
     Alternative translations:
       - A boy is not a cat.
@@ -159,7 +159,7 @@ Mini-dictionary:
     - dortokak: turtles
     - ere: also
     - eta: and
-    - ez: not,no
+    - ez: not, no
     - gaztea: young
     - gizen: fat
     - gizena: fat
@@ -184,7 +184,7 @@ Mini-dictionary:
     - kotxe: car
     - kotxea: car
     - kotxeak: cars
-    - labura: short
+    - laburra: short
     - laranja: orange
     - laranjak: orange
     - morea: purple
@@ -212,7 +212,7 @@ Mini-dictionary:
     - urdin: blue
     - urdina: blue
     - urdinak: blue
-    - zahara: old
+    - zahar: old
     - zaharra: old
     - zen: was
     - zinen: were
