@@ -71,8 +71,8 @@ Phrases:
   - Phrase: Hau Joseba da. Kaixo Joseba, zer moduz?
     Translation: This is Joseba. Hello Joseba, how are you?
 
-  - Phrase: Mutil hau Iziar da.
-    Translation: This boy is Iziar.
+  - Phrase: Neska hau Iziar da.
+    Translation: This girl is Iziar.
 
   - Phrase: Nor da hau?
     Translation: Who is this?
@@ -108,8 +108,8 @@ Phrases:
   - Phrase: Zer da hori?
     Translation: What is that?
 
-  - Phrase: Hori da Iziar. Iziar mutil indartsua da.
-    Translation: That is Iziar. Iziar is a strong boy.
+  - Phrase: Hori da Iziar. Iziar neska indartsua da.
+    Translation: That is Iziar. Iziar is a strong girl.
 
   - Phrase: Katu beltz hori ahula da.
     Translation: That black cat is weak.
@@ -136,10 +136,10 @@ Phrases:
   - Phrase: Neska haiek ikasleak dira.
     Translation: Those girls over there are students.
 
-  - Phrase: Hotel haiek berdeak zineten, baina orain laranjak dira.
+  - Phrase: Hotel haiek berdeak ziren, baina orain laranjak dira.
     Translation: Those hotels over there were green, but now they are orange.
 
-  - Phrase: Txakur txiki horiek grisak dira, baizik txakur handi hauek beltzak dira.
+  - Phrase: Txakur txiki horiek grisak dira, baina txakur handi hauek beltzak dira.
     Translation: Those small dogs are gray while these big dogs are black.
     Alternative translations:
       - Those small dogs are gray but these big dogs are black.
@@ -228,14 +228,13 @@ Mini-dictionary:
     - kotxe: car
     - kotxea: car
     - kotxeak: cars
-    - labura: short
+    - laburra: short
     - laranja: orange
     - laranjak: orange
     - liburu: book
     - liburua: a book
     - liburuak: books
     - Lili: Lili (LibreLingo Turtle)
-    - moduz: are you
     - morea: purple
     - motela: slow
     - mutil: boy
@@ -263,7 +262,7 @@ Mini-dictionary:
     - uso: pigeon
     - usoa: a pigeon
     - usoak: pigeons
-    - zahara: old
+    - zahar: old
     - zaharra: old
     - zen: was
     - zer: what
@@ -325,7 +324,6 @@ Mini-dictionary:
     - old: zahar
     - one: bat
     - orange: laranja
-    - of: de
     - over: amaitu
     - owl: hontza
     - owls: hontzak
