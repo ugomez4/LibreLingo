@@ -126,9 +126,9 @@ Phrases:
       - That is your'll school.
       - That is your school.
 
-  - Phrase: Hura zuen laguna dira.
+  - Phrase: Hura zuen laguna da.
     Alternative versions:
-      - Zuen laguna dira.
+      - Zuen laguna da.
     Translation: She is your(plural) friend.
     Alternative translations:
       - He is your(plural) friend.
@@ -226,7 +226,7 @@ Mini-dictionary:
     - kotxe: car
     - kotxea: car
     - kotxeak: cars
-    - labura: short
+    - laburra: short
     - laguna: friend
     - lagunak: friends
     - laranja: orange
@@ -254,7 +254,7 @@ Mini-dictionary:
     - poltsa: purse
     - poltsak: purses
     - txakur: dog
-    - txakura: a dog
+    - txakurra: a dog
     - txakurrak: dogs
     - txikia: small
     - txoria: bird
@@ -267,7 +267,7 @@ Mini-dictionary:
     - usoak: pigeons
     - zara: are
     - zarete: are
-    - zahara: old
+    - zahar: old
     - zaharra: old
     - zaldiak: horses
     - zen: was
