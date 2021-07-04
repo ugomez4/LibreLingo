@@ -3,12 +3,12 @@
 
 ### The NOREN (Possessive Genitive) Case
 #### Single definite
-* Ending: -aren
+* Ending: -ren
 * Examples:
-    * EtxeAREN - the house's, MutilAREN - the boy's
-    * MutilAREN liburua gorria da.: The boy's book is red.
+    * EtxeaREN - the house's, 
+    * MutilAREN - the boy's
+    * MutilaREN liburua gorria da.: The boy's book is red.
     * NeskaREN liburuak gorriak dira.: The girl's books are red.
-    * Note that if the subject ends in an "-a", you don't add a 2d "a": neskA.
 
 ### Vocabulary NOREN (Possessive Genitive) Case 1
 * apaizaren: priest's, of the priest
