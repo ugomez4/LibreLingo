@@ -40,7 +40,7 @@ New words:
       - who2
       - who3
 
-  - Word: camareroen
+  - Word: zerbitzarien
     Translation: waiters’
     Also accepted:
       - of the waiters
@@ -78,8 +78,8 @@ New words:
       - chefs2
       - chefs3
 
-  - Word: turistaren
-    Translation: tourist’s
+  - Word: turisten
+    Translation: tourists'
     Also accepted:
       - of the tourists
     Images:
@@ -98,7 +98,7 @@ Phrases:
     Alternative translations:
       - The owls of the doctors were ugly.
 
-  - Phrase: Erizainen txoriak jatorak dira.
+  - Phrase: Erizainen txoriak jatorrak dira.
     Translation: The nurses’ birds are nice.
     Alternative translations:
       - The birds of the nurses are nice.
@@ -108,7 +108,7 @@ Phrases:
     Alternative translations:
       - The snakes of the strangers were long.
 
-  - Phrase: Camareroen oilaskoak laburrak dira.
+  - Phrase: Zerbitzarien oilaskoak laburrak dira.
     Translation: The waiters’ chickens are short.
     Alternative translations:
       - The chickens of the waiters are short.
@@ -139,7 +139,7 @@ Mini-dictionary:
   Basque:
     - Anitzarenak: Anitza's (female name, plural object)
     - Mirenen: Miren’s (female name)
-    - Xabieren: Xabier’s (male name)
+    - Xabierren: Xabier’s (male name)
     - Lili: Lili (LibreLingo Turtle)
     - Mikelenak: Mikel’s (male name)
     - ahula: weak
@@ -181,7 +181,7 @@ Mini-dictionary:
     - boligrafo: pen
     - boligrafoa: pen
     - boligrafoak: pens
-    - camareroen: waiters’
+    - zerbitzarien: waiters’
     - da: is
     - dira: are
     - dortoka: a turtle
@@ -234,14 +234,14 @@ Mini-dictionary:
     - ikaslearen: the student’s
     - itsusia: ugly
     - itsusiak: ugly
-    - jatorak: nice
+    - jatorrak: nice
     - katu: cat
     - katua: a cat
     - katuak: cats
     - kotxe: car
     - kotxea: car
     - kotxeak: cars
-    - labura: short
+    - laburra: short
     - laburrak: short
     - lagun: friend
     - laguna: friend
@@ -287,7 +287,7 @@ Mini-dictionary:
     - turisten: tourists'
     - turistaren: tourist’s
     - txakur: dog
-    - txakura: a dog
+    - txakurra: a dog
     - txakurrak: dogs
     - txikia: small
     - txarrak: bad
@@ -299,7 +299,7 @@ Mini-dictionary:
     - uso: pigeon
     - usoa: a pigeon
     - usoak: pigeons
-    - zahara: old
+    - zahar: old
     - zaharra: old
     - zaldia: horse
     - zen: was
@@ -379,7 +379,7 @@ Mini-dictionary:
     - man’s: gizonaren
     - mini-hotel: ostatua
     - new: berri
-    - nice: jatorak
+    - nice: jatorrak
     - not: ez
     - now: orain
     - nurse’s: erizainaren
@@ -388,7 +388,6 @@ Mini-dictionary:
     - old: zahar
     - one: bat
     - orange: laranja
-    - over: amaitu
     - owl: hontza
     - owls: hontzak
     - pen: boligrafo
@@ -437,7 +436,7 @@ Mini-dictionary:
     - ugly: itsusi
     - umbrella: aterki
     - umbrellas: aterkiak
-    - waiters’: camareroen
+    - waiters’: zerbitzarien
     - was: zen
     - watch: erloju
     - watches: erlojuak
