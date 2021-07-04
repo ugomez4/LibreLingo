@@ -14,11 +14,11 @@
 * medikuen: doctors', of the doctors
 * erizainen: nurses',of the nurses
 * arrotzen: strangers',of the strangers
-* camareroen: waiters', of the waiters
+* zerbitzarien: waiters', of the waiters
 * mutilen: boys',of the boys
 * nesken: girls', of the girls
 * sukaldarien: cooks', chefs', of the cooks, of the chefs
-* turistaren: tourists', of the tourists
+* turisten: tourists', of the tourists
 
 
 
